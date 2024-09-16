@@ -8,7 +8,19 @@ PYTHON_PACKAGES=(
 )
 
 NODES=(
-    #"https://github.com/ltdrdata/ComfyUI-Manager"
+    
+    "https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/nullquant/ComfyUI-BrushNet"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+    "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+    https://github.com/audioscavenger/save-image-extended-comfyui 
 )
 
 CHECKPOINT_MODELS=(
@@ -29,7 +41,7 @@ VAE_MODELS=(
 )
 
 ESRGAN_MODELS=(
-    #"https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x4.pth"
+    "https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x4.pth"
     #"https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
     #"https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth"
 )
