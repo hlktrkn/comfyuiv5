@@ -20,7 +20,8 @@ NODES=(
     "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
-    https://github.com/audioscavenger/save-image-extended-comfyui 
+    "https://github.com/audioscavenger/save-image-extended-comfyui"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
 )
 
 CHECKPOINT_MODELS=(
