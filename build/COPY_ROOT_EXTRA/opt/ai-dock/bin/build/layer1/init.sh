@@ -5,6 +5,9 @@
 # Packages are installed after nodes so we can fix them...
 PYTHON_PACKAGES=(
     "opencv-python==4.7.0.72"
+    #imapct-pack dependency
+    "ultralytics"
+    "segment_anything"
 )
 
 NODES=(
@@ -21,7 +24,8 @@ NODES=(
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
     "https://github.com/audioscavenger/save-image-extended-comfyui"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    #Ver5.1 update
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack" 
 )
 
 CHECKPOINT_MODELS=(
