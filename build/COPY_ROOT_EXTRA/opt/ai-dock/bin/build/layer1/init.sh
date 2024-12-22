@@ -26,6 +26,7 @@ NODES=(
     "https://github.com/audioscavenger/save-image-extended-comfyui"
     #Ver5.1 update
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack" 
+    #V2 Flux Nodes Come Here
 )
 
 CHECKPOINT_MODELS=(
