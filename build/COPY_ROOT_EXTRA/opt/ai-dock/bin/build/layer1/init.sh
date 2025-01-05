@@ -27,6 +27,25 @@ NODES=(
     #Ver5.1 update
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack" 
     #V2 Flux Nodes Come Here like Flux Fill, Flux Redux(aka IP adapter)
+    "https://github.com/kaibioinfo/ComfyUI_AdvancedRefluxControl"
+    "https://github.com/jags111/efficiency-nodes-comfyui"
+    "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/kijai/ComfyUI-Florence2"
+    "https://github.com/kijai/ComfyUI-segment-anything-2"
+    "https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG"
+    "https://github.com/liusida/ComfyUI-AutoCropFaces"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/yolain/ComfyUI-Easy-Use"
+    
+
+    # CHECK THIS IF NECESSARY
+    "https://github.com/chflame163/ComfyUI_LayerStyle" 
+    "https://github.com/M1kep/Comfy_KepListStuff"
+    
+    "https://github.com/SozeInc/ComfyUI_Soze"
+    
+
+
 )
 
 CHECKPOINT_MODELS=(
