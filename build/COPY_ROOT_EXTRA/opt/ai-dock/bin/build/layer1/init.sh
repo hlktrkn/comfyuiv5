@@ -40,10 +40,6 @@ NODES=(
     
 
     # CHECK THIS IF NECESSARY
-    # "https://github.com/chflame163/ComfyUI_LayerStyle" 
-    # "https://github.com/M1kep/Comfy_KepListStuff"
-    
-    # "https://github.com/SozeInc/ComfyUI_Soze"
     
 
 
