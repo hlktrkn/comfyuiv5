@@ -31,12 +31,17 @@ NODES=(
     "https://github.com/kaibioinfo/ComfyUI_AdvancedRefluxControl"
     "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/rgthree/rgthree-comfy"
-    "https://github.com/kijai/ComfyUI-Florence2"
-    "https://github.com/kijai/ComfyUI-segment-anything-2"
+    #"https://github.com/kijai/ComfyUI-Florence2"
+    #"https://github.com/kijai/ComfyUI-segment-anything-2"
     "https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG"
     "https://github.com/liusida/ComfyUI-AutoCropFaces"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
     "https://github.com/yolain/ComfyUI-Easy-Use"
+
+    # flux Catvton Nodes
+    "https://github.com/Acly/comfyui-inpaint-nodes"
+    "https://github.com/lrzjason/Comfyui-In-Context-Lora-Utils"
+    "https://github.com/city96/ComfyUI-GGUF"
     
 
     # CHECK THIS IF NECESSARY
